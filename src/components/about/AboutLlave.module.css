@@ -1,0 +1,25 @@
+.H1{
+    margin-top: 0%;
+    text-align: center;
+    color: brown;
+}
+.foto {
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+    margin-left: 25%;
+    margin-right: 80px;
+    /* margin-top: 2%; */
+    text-align: center;
+    
+}
+
+.profile {
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+    margin-right: 50px;
+    margin-top: 8%;
+    text-align: center;
+    
+}
